@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TaskMate/static/css/main.e25fb81e.css",
+    "main.js": "/TaskMate/static/js/main.17bafe35.js",
+    "static/media/logo.png": "/TaskMate/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/TaskMate/index.html",
+    "main.e25fb81e.css.map": "/TaskMate/static/css/main.e25fb81e.css.map",
+    "main.17bafe35.js.map": "/TaskMate/static/js/main.17bafe35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e25fb81e.css",
+    "static/js/main.17bafe35.js"
+  ]
+}
